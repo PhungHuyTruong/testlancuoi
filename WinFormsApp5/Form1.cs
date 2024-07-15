@@ -10,5 +10,10 @@
         {
             MessageBox.Show("dấdad");
         }
+
+        public void dadaad()
+        {
+            MessageBox.Show("dâdad");
+        }
     }
 }
